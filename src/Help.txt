@@ -1,0 +1,4 @@
+:: How to play TexNero ::
+To play, click the "DRAW" button. This will put random numbers on the buttons to the right. To win, you must have the same number on all 3 buttons.
+
+(c)2016 - Kivitoe TexNero : Eclipse Public License - v1.0
